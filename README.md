@@ -2,11 +2,11 @@
 Designed for Github API v4 usage
 
 ### Install
-npm install graph-query-builder
+`npm install graph-query-builder`
 
 ### API
 
-const QBuilder = require('graph-query-builder');
+`const QBuilder = require('graph-query-builder');`
 
 #### constructor
 
